@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: monospace;
+    padding: 1rem;
+}
+
+h1 {
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+}
+
+.text {
+    font-size: 1.25rem;
+    text-align: center;
+    padding: 0rem 0 2rem 0;
+}
+
+
+
+input {
+    font-size: 2rem;
+    width: 100%;
+    padding: 2rem;
+}
+
+
+
